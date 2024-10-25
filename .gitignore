@@ -1,0 +1,14 @@
+javafx-sdk-23.0.1/
+mysql-connector-j-9.0.0/
+.DS_Store
+Documents/oop/Bài tập lớn/BTL OOP - Trương Văn Hiển - Lương Thái Nam - Mai Minh Nhật/
+Python/venv/
+Python/env/
+Python/myenv/
+*.docx
+*.pdf
+get-pip.py
+Documents/
+venv/
+env/
+myenv/
